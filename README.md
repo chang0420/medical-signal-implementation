@@ -17,7 +17,9 @@
   <li>整合多種感測模組</li>
   <li>COM Port / Bluetooth 連線</li>
   <li>溫溼度</li>
-</ul>  
+</ul>
+<img width="1403" height="410" alt="image" src="https://github.com/user-attachments/assets/999e1d2d-90ff-4dbc-99dc-d40a666bf47b" />
+
 <h2>Web 健康測量系統</h2>
 <ul>
   <li>使用者登入機制</li>
