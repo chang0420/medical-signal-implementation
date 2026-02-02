@@ -1,5 +1,4 @@
-                                                                                                                                                        <h1>專案介紹</h1>
-
+<h1>專案介紹</h1>
 為一套從硬體感測、即時通訊、桌面應用到 Web 資料查詢的完整系統實作。
 系統可即時接收多項生理感測資料，並同步顯示於桌面應用程式，同時將資料儲存至資料庫，提供 Web 介面進行歷史資料查詢與視覺化分析。
 
@@ -19,7 +18,7 @@
   <li>COM Port / Bluetooth 連線</li>
   <li>溫溼度</li>
 </ul>
-<img width="1403" height="410" alt="image" src="https://github.com/user-attachments/assets/999e1d2d-90ff-4dbc-99dc-d40a666bf47b" />
+<img width="1200" height="200" alt="image" src="https://github.com/user-attachments/assets/999e1d2d-90ff-4dbc-99dc-d40a666bf47b" />
 
 <h2>Web 健康測量系統</h2>
 <ul>
