@@ -1,0 +1,13 @@
+D:\醫療訊號\topic05\ex02\bin\Debug\ex02.exe.config
+D:\醫療訊號\topic05\ex02\bin\Debug\ex02.exe
+D:\醫療訊號\topic05\ex02\bin\Debug\ex02.pdb
+D:\醫療訊號\topic05\ex02\bin\Debug\InTheHand.Net.Personal.xml
+D:\醫療訊號\topic05\ex02\obj\Debug\ex02.csprojAssemblyReference.cache
+D:\醫療訊號\topic05\ex02\obj\Debug\ex3_3_pc.ComPortConfigForm.resources
+D:\醫療訊號\topic05\ex02\obj\Debug\ex02.Form1.resources
+D:\醫療訊號\topic05\ex02\obj\Debug\ex02.Properties.Resources.resources
+D:\醫療訊號\topic05\ex02\obj\Debug\ex02.csproj.GenerateResource.cache
+D:\醫療訊號\topic05\ex02\obj\Debug\ex02.csproj.CoreCompileInputs.cache
+D:\醫療訊號\topic05\ex02\obj\Debug\ex02.csproj.CopyComplete
+D:\醫療訊號\topic05\ex02\obj\Debug\ex02.exe
+D:\醫療訊號\topic05\ex02\obj\Debug\ex02.pdb

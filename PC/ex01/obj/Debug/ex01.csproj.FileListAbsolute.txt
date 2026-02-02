@@ -1,0 +1,14 @@
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\bin\Debug\ex01.exe.config
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\bin\Debug\ex01.exe
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\bin\Debug\ex01.pdb
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\bin\Debug\InTheHand.Net.Personal.dll
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\bin\Debug\myTools.dll
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\bin\Debug\InTheHand.Net.Personal.xml
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\obj\Debug\ex01.csprojAssemblyReference.cache
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\obj\Debug\ex01.Form1.resources
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\obj\Debug\ex01.Properties.Resources.resources
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\obj\Debug\ex01.csproj.GenerateResource.cache
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\obj\Debug\ex01.csproj.CoreCompileInputs.cache
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\obj\Debug\ex01.csproj.CopyComplete
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\obj\Debug\ex01.exe
+D:\醫療訊號\醫療訊號期末\醫療訊號期末\ex01\obj\Debug\ex01.pdb
