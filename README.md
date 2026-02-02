@@ -2,6 +2,9 @@
 為一套從硬體感測、即時通訊、桌面應用到 Web 資料查詢的完整系統實作。
 系統可即時接收多項生理感測資料，並同步顯示於桌面應用程式，同時將資料儲存至資料庫，提供 Web 介面進行歷史資料查詢與視覺化分析。
 
+<h2>系統架構</h2>
+<img width="794" height="126" alt="image" src="https://github.com/user-attachments/assets/04180ec9-6cb9-4677-92c8-074a5f0a03ce" /> 
+
 <h1>功能說明</h1>
 <h2>即時生理監測</h2>
 <ul>
@@ -30,8 +33,6 @@
 
 
 
-<h2>系統架構</h2>
-<img width="794" height="126" alt="image" src="https://github.com/user-attachments/assets/04180ec9-6cb9-4677-92c8-074a5f0a03ce" />
 
 
 
