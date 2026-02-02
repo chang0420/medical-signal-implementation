@@ -23,7 +23,9 @@
   <li>使用者登入機制</li>
   <li>歷史量測資料查詢</li>
   <li>視覺化顯示生理數據趨勢</li>
-</ul>  
+</ul>
+<img width="403" height="208" alt="Medical Signal Monitoring System" src="https://github.com/user-attachments/assets/419f9743-afb0-4ab4-87c3-ab16c455117b" />
+
 
 <h1>系統架構</h1>
 <img width="794" height="126" alt="image" src="https://github.com/user-attachments/assets/04180ec9-6cb9-4677-92c8-074a5f0a03ce" />
